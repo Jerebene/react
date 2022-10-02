@@ -15,7 +15,7 @@ const Navbar = () => {
                 <h1 className='titulo'>Jeben <span>Store</span> </h1>
             <div className='buttoncontainer'>
                 <Button
-                style={{ color: "red"}}
+                style={{ color: "blue"}}
                 >
                     Home
                 </Button>
