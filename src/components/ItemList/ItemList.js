@@ -14,15 +14,8 @@ const ItemList = ({productos}) => {
             float={prod.float}
             condition={prod.condition}
             />)}
-
-
-
-
-
-
-            
         </div>
     )
 }
 
-export default  List
+export default  ItemList
