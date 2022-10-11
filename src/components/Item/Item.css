@@ -1,0 +1,12 @@
+.ItemContainer {
+    width: 30%;
+    display: inline-block;
+    background-color: grey;
+    margin: 10px;
+}
+
+.ItemContainer h1 {
+    color: red;
+    display:inline-block;
+}
+

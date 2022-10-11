@@ -1,0 +1,19 @@
+
+.counter {
+    display: flex;
+    justify-content: center;
+    /* width: min-content; */
+    background-color: white;
+    align-items: center;
+
+}
+
+.counter h1 {
+    margin: 0 50px;
+    color:black
+}
+
+.addToCar {
+    margin: 20px;
+    
+}
