@@ -14,6 +14,13 @@ const ItemList = ({productos}) => {
             float={prod.float}
             condition={prod.condition}
             />)}
+
+
+
+
+
+
+            
         </div>
     )
 }
