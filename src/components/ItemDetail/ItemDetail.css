@@ -1,7 +1,7 @@
-.ItemContainer {
+.cartContainer {
     display: inline-block;
     background-color: rgb(135, 121, 121);
-    width: 150px;
+    width: 250px;
     height: auto;
     padding: 30px;
     margin: 30px;
@@ -9,9 +9,3 @@
     border: 1px solid #e1e1e1;
     border-radius: 10px;
 }
-
-.ItemContainer h1 {
-    color: black;
-    display:inline-block;
-}
-
